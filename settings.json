@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "http://hosam4syr.aternos.me",
+    "port": 43697,
     "version": "1.21.1"
   },
   "position": {
